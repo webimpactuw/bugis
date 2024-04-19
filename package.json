@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@sanity/block-content-to-react": "^3.0.0",
+    "@sanity/client": "^6.15.17",
+    "@sanity/image-url": "^1.0.2"
+  }
+}

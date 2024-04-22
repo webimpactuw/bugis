@@ -25,8 +25,8 @@ const Home = () => {
       </ul>
 
       <div className='h-96 bg-[#FCECE7] pt-10 text-center'>
-        <button className='bg-[#E45B93] py-3 px-14 rounded-full'>
-          <p className='text-white text-xl font-poppins font-semibold tracking-wide'>Explore Menu</p>
+        <button className='bg-[#E45B93] text-white hover:bg-[#FED1C2] hover:text-[#E45B93] py-3 px-14 rounded-full'>
+          <p className='text-xl font-poppins font-semibold tracking-wide'>Explore Menu</p>
         </button>
       </div>
 
@@ -45,8 +45,8 @@ const Home = () => {
             </p>
           </article>
 
-          <button className='bg-[#E45B93] py-3 px-14 rounded-full'>
-            <p className='text-white text-xl font-poppins font-semibold tracking-wide'>Learn More</p>
+          <button className='bg-[#E45B93] text-white hover:bg-[#FED1C2] hover:text-[#E45B93] py-3 px-14 rounded-full'>
+            <p className='text-xl font-poppins font-semibold tracking-wide'>Learn More</p>
           </button>
         </div>
       </div>

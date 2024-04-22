@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { AiOutlineClose, AiOutlineMenu } from 'react-icons/ai';
 import logo from '../assets/logo.png'
 
-const Navbar = () => {
+const NavBar = () => {
   const [nav, setNav] = useState(false);
 
   const handleNav = () => {
@@ -59,4 +59,4 @@ const Navbar = () => {
   )
 }
 
-export default Navbar
+export default NavBar
